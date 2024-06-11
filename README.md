@@ -1,6 +1,9 @@
 # dlNewPipePlaylists
 python script which downloads from youtube to mp3
 
+##usage
+run in termial: python3 script.py newpipe.db
+
 ## newpipe.db
 sample database included in this repo.
 passed as command line argument to script.py. 
@@ -11,4 +14,5 @@ this file is exported from newpipe (settings->backup and restore->export).
 python script which does the work.
 
 ## prerequisites
-script.py uses youtube-dl or yt-dlp to download youtube videos as mp3 files.
+python3
+script.py uses youtube-dl or yt-dlp to download youtube videos as mp3 files
