@@ -2,7 +2,7 @@
 python script which downloads from youtube to mp3
 
 ## newpipe.db
-sample db. 
+sample database included in this repo.
 passed as command line argument to script.py. 
 playlist information will be extracted from this file.
 this file is exported from newpipe (settings->backup and restore->export).
