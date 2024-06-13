@@ -1,8 +1,8 @@
 # dlNewPipePlaylists
 python script which downloads from youtube to mp3
 
-##usage
-run in termial: python3 script.py newpipe.db
+## usage
+run in terminal: python3 script.py newpipe.db
 
 ## newpipe.db
 sample database included in this repo.
